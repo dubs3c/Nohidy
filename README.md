@@ -1,5 +1,5 @@
 # Nohidy
-Nohidy the system admins best friend, multi platform auditing tool
 
+Nohidy - The System Administrator's best friend - Multi Platform Auditing Tool.
 
-i add some scripts when i have time i try to share the security i think is good
+When I have the time, I will add more scripts which I find are very good.
